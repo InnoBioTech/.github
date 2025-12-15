@@ -8,7 +8,7 @@ Our mission is to **remove friction between scientific intent and execution**—
 
 ## What We’re Building
 
-### 🔬 InnoEco — AI-Driven CRO Discovery
+### InnoEco — AI-Driven CRO Discovery
 A smart marketplace that helps biotech and pharma teams **find, evaluate, and collaborate with the right CROs** based on scientific, regulatory, and operational fit—not just keywords.
 
 Key ideas:
